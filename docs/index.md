@@ -23,7 +23,7 @@
 
 ## 🛠️ Skills
 
-### Programming Languages
+- Programming Languages
 
 [![C++ Badge](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white)](https://github.com/search?q=user%3AwmFrank+language%3Acpp)
 [![C Badge](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)](https://github.com/search?q=user%3AwmFrank+language%3Ac)
@@ -43,7 +43,7 @@
 [![Scala Badge](https://img.shields.io/badge/scala-%23DC322F.svg?logo=scala&logoColor=white)](https://github.com/search?q=user%3AwmFrank+language%3Ascala)
 [![Shell Script Badge](https://img.shields.io/badge/shell_script-%23121011.svg?logo=gnu-bash&logoColor=white)](https://github.com/search?q=user%3AwmFrank+language%3Ashell)
 
-### Frameworks & Libraries
+- Frameworks & Libraries
 
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?logo=opengl)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white)
@@ -64,7 +64,7 @@
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
 
-### Machine Learning
+- Machine Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&logo=TensorFlow&logoColor=white)
