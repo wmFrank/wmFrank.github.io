@@ -12,12 +12,12 @@
 - MSCS @ University of Southern California(USC) | Aug. 2021 - May 2023 @ Los Angeles, California, United States
 - BSCS @ Nanjing University(NJU) | Sept. 2016 - June 2020 @ Nanjing, Jiangsu, China
 
-## 📖 Research Experience
+## 📖 Research
 - Research Assistant @ [Robotic Embedded Systems Laboratory(RESL), USC](https://cs.nju.edu.cn/lutong/index.htm)
 - Research Assistant @ [Intelligent Media Pervasive, Recognition & Understanding(IMAGINE), NJU](https://cs.nju.edu.cn/lutong/index.htm)
 - Research Assistant @ [Institute of Computer Software(ICS), NJU](https://cs.nju.edu.cn/ics/index.html)
 
-## 🏢 Work Experience
+## 🏢 Work
 - Research Intern @ Hugging Face | June 2022 - Aug. 2022 @ Los Angeles, California, United States
 - Machine Learning Engineer @ ByteDance | July 2020 - July 2021 @ Shanghai, China
 

@@ -2,7 +2,7 @@
 
 <img src="assets/images/profile-photo.jpeg" alt="Ming Wang's photo" width="280"/>
 
-## 👀 最新的我
+## 👀 最近的我
 
 - 我目前是[南加州大学维特比工程学院（USC Viterbi）](https://viterbischool.usc.edu/)的计算机研究生。
 - 我目前是[Hugging Face](https://huggingface.co/)的科研实习生。

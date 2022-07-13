@@ -101,7 +101,7 @@
 
 ### Calabash Brothers
 - **Github link:** https://github.com/wmFrank/Calabash-Brothers
-- **Decription:** A java-based GUI game called Calabash Brothers
+- **Decription:** A Java-based GUI game called Calabash Brothers
 - **Programming language:** Java
 - **Technologies:** JavaFX, Maven
 - **Results:**
@@ -185,5 +185,3 @@
 - **Github link:** https://github.com/wmFrank/databases-projects
 - **Decription:** A set of projects about MySql basic operations, constrainted databases, third party tools operating databases
 - **Programming language:** MySQL, Java
-
----

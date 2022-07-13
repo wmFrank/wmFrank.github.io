@@ -25,7 +25,7 @@
 
 ### AILA Open Innovation
 - **Github link:** https://github.com/willxxy/AILAOI
-- **Decription:** A project about predicting infestations in the Santa Monica Mountains National Recreation Area and building a user-friendly dashboard based on ArcGIS platform to present results.
+- **Decription:** A project about predicting infestations in the Santa Monica Mountains National Recreation Area and building a user-friendly dashboard based on ArcGIS platform to present results
 - **Programming language:** Python, Jupyter Notebook
 - **Technologies:** XGBoost, ArcGIS
 - **Results:**
