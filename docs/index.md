@@ -5,7 +5,7 @@
 ## 👀 Latest Me
 
 - I'm currently a graduate CS student at [USC Viterbi](https://viterbischool.usc.edu/). 
-- I'm currently a research intern at [Hugging Face](https://huggingface.co/).
+- I'm currently a machine learning engineer intern at [Hugging Face](https://huggingface.co/).
 - I'm currently working on the high throughput asynchronous reinforcement learning library: [Sample Factory](https://github.com/alex-petrenko/sample-factory).
 
 ## 🎓 Education
@@ -18,7 +18,7 @@
 - Research Assistant @ [Institute of Computer Software(ICS), NJU](https://cs.nju.edu.cn/ics/index.html)
 
 ## 🏢 Work
-- Research Intern @ Hugging Face | June 2022 - Aug. 2022 @ Los Angeles, California, United States
+- Machine Learning Engineer Intern @ Hugging Face | June 2022 - Aug. 2022 @ Los Angeles, California, United States
 - Machine Learning Engineer @ ByteDance | July 2020 - July 2021 @ Shanghai, China
 
 ## 🛠️ Skills

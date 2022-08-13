@@ -5,7 +5,7 @@
 ## 👀 最近的我
 
 - 我目前是[南加州大学维特比工程学院（USC Viterbi）](https://viterbischool.usc.edu/)的计算机研究生。
-- 我目前是[Hugging Face](https://huggingface.co/)的科研实习生。
+- 我目前是[Hugging Face](https://huggingface.co/)的机器学习工程师实习生。
 - 我目前在研究高吞吐量的异步强化学习库[Sample Factory](https://github.com/alex-petrenko/sample-factory)。
 
 ## 🎓 教育经历
@@ -18,7 +18,7 @@
 - 研究助理 @ [计算机软件研究所（ICS）](https://cs.nju.edu.cn/ics/index.html)，南京大学
 
 ## 🏢 工作经历
-- 科研实习生 @ Hugging Face | 2022年6月 - 2022年8月 @ 美国加州洛杉矶
+- 机器学习工程师实习生 @ Hugging Face | 2022年6月 - 2022年8月 @ 美国加州洛杉矶
 - 机器学习工程师 @ 字节跳动 | 2020年7月 - 2021年7月 @ 中国上海
 
 ## 🛠️ 相关技能
