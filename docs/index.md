@@ -74,6 +74,7 @@
 ![WandB](https://img.shields.io/badge/Weights_&_Biases-FFBE00?logo=WeightsAndBiases&logoColor=white)
 
 ## ⚡ Interests
+- Software Development
 - Deep Learning
 - Data Science
 

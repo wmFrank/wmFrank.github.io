@@ -73,6 +73,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)
 
 ## ⚡ 研究兴趣
+- 软件开发
 - 深度学习
 - 数据科学
 
