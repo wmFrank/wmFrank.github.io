@@ -78,6 +78,7 @@ plugins:
       nav_translations:
         zh:
           Home: 主页
+          About Me: 关于我
           Projects: 项目
           Misc: 其他
   - git-authors
@@ -139,6 +140,7 @@ markdown_extensions:
 # Page tree for the default language
 nav:
   - Home: index.md
+  - About Me: about-me/about-me.md
   - Projects:
     - projects/machine-learning-projects.md
     - projects/full-stack-projects.md
