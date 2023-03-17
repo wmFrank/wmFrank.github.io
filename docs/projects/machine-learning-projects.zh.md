@@ -18,6 +18,26 @@ Sample Factory
 
 ---
 
+### 自动驾驶
+
+Auto Driving
+
+- **Github链接：** https://github.com/wmFrank/VISTA-auto-driving
+- **描述：** 基于VISTA环境的RL自动驾驶
+- **编程语言：** Python
+- **技术：** PyTorch, Jupyter Notebook
+- **结果：**
+
+    > 随机策略
+
+    <video width="800" controls><source src="https://user-images.githubusercontent.com/30235642/192143769-dff4d438-241f-44b3-a014-8f0f87fe6757.mp4" type="video/mp4"></video>
+
+    > 训练后的策略
+
+    <video width="800" controls><source src="https://user-images.githubusercontent.com/30235642/192143770-bf9dc6e4-1ece-42bc-a96a-2aa75a5b5151.mp4" type="video/mp4"></video>
+
+---
+
 ### 思想游戏--《星际争霸2》
 
 Thought-Game SC2

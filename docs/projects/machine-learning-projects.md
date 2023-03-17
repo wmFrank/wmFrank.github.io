@@ -15,6 +15,23 @@
 
 ---
 
+### Auto Driving
+- **Github link:** https://github.com/wmFrank/VISTA-auto-driving
+- **Decription:** Autonomous driving with policy gradient RL based on the VISTA environment
+- **Programming language:** Python
+- **Technologies:** PyTorch, Jupyter Notebook
+- **Results:**
+
+    > Random Policy
+
+    <video width="800" controls><source src="https://user-images.githubusercontent.com/30235642/192143769-dff4d438-241f-44b3-a014-8f0f87fe6757.mp4" type="video/mp4"></video>
+
+    > Trained Policy
+
+    <video width="800" controls><source src="https://user-images.githubusercontent.com/30235642/192143770-bf9dc6e4-1ece-42bc-a96a-2aa75a5b5151.mp4" type="video/mp4"></video>
+
+---
+
 ### Thought-Game SC2
 - **Github link:** https://github.com/wmFrank/Thought-SC2
 - **Decription:** Efficient reinforcement learning with DQN for StarCraft 2
