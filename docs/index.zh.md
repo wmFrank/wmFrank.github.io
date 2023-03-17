@@ -2,26 +2,15 @@
 
 <img src="assets/images/profile-photo.jpeg" alt="Ming Wang's photo" width="280"/>
 
-## 👀 最近的我
+👀 [南加州大学维特比工程学院（USC Viterbi）](https://viterbischool.usc.edu/)在读计算机研究生。
 
-- 我目前是[南加州大学维特比工程学院（USC Viterbi）](https://viterbischool.usc.edu/)的计算机研究生。
-- 我目前是[Hugging Face](https://huggingface.co/)的机器学习工程师实习生。
-- 我目前在研究高吞吐量的异步强化学习库[Sample Factory](https://github.com/alex-petrenko/sample-factory)。
+---
 
-## 🎓 教育经历
-- 计算机硕士研究生 @ 南加州大学(USC) | 2021年8月 - 2023年5月 @ 美国加州洛杉矶
-- 计算机本科 @ 南京大学(NJU) | 2016年9月 - 2020年6月 @ 中国江苏南京
+⚡ ML Infra | 搜索推荐引擎
 
-## 📖 研究经历
-- 研究助理 @ [机器人嵌入式系统实验室（RESL）](https://cs.nju.edu.cn/lutong/index.htm)，南加州大学
-- 研究助理 @ [媒体智能感知与内容理解研究组（IMAGINE）](https://cs.nju.edu.cn/lutong/index.htm)，南京大学
-- 研究助理 @ [计算机软件研究所（ICS）](https://cs.nju.edu.cn/ics/index.html)，南京大学
+---
 
-## 🏢 工作经历
-- 机器学习工程师实习生 @ Hugging Face | 2022年6月 - 2022年8月 @ 美国加州洛杉矶
-- 机器学习工程师 @ 字节跳动 | 2020年7月 - 2021年7月 @ 中国上海
-
-## 🛠️ 相关技能
+🛠️ 相关技能
 
 - 编程语言
 
@@ -42,6 +31,9 @@
 [![Octave Badge](https://img.shields.io/badge/OCTAVE-darkblue?logo=octave&logoColor=fcd683)](https://github.com/search?q=user%3AwmFrank+language%3Aoctave)
 [![Scala Badge](https://img.shields.io/badge/scala-%23DC322F.svg?logo=scala&logoColor=white)](https://github.com/search?q=user%3AwmFrank+language%3Ascala)
 [![Shell Script Badge](https://img.shields.io/badge/shell_script-%23121011.svg?logo=gnu-bash&logoColor=white)](https://github.com/search?q=user%3AwmFrank+language%3Ashell)
+[![Rust Badge](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)](https://github.com/search?q=user%3AwmFrank+language%3Arust)
+[![WebAssembly Badge](https://img.shields.io/badge/WebAssembly-654FF0?logo=WebAssembly&logoColor=white)](https://github.com/search?q=user%3AwmFrank+language%3Awebassembly)
+[![Solidity Badge](https://img.shields.io/badge/Solidity-e6e6e6?logo=solidity&logoColor=black)](https://github.com/search?q=user%3AwmFrank+language%3Asolidity)
 
 - 框架和库
 
@@ -63,6 +55,21 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?logo=apachespark&logoColor=#E35A16)
+![Codecov](https://img.shields.io/badge/Codecov-F01F7A?logo=Codecov&logoColor=white)
+![Wakatime](https://img.shields.io/badge/WakaTime-000000?logo=WakaTime&logoColor=white)
+![Openzeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?logo=amazonaws&logoColor=white)
+![Amazon Dynamodb](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=Amazon%20DynamoDB&logoColor=white)
+![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=Mocha&logoColor=white)
+![TS-node](https://img.shields.io/badge/ts--node-3178C6?logo=ts-node&logoColor=white)
+![Web3 js](https://img.shields.io/badge/web3.js-F16822?logo=web3.js&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white)
+![Json](https://img.shields.io/badge/json-5E5C5C?logo=json&logoColor=white)
+![ESlint](https://img.shields.io/badge/eslint-3A33D1?logo=eslint&logoColor=white)
 
 - 机器学习
 
@@ -72,12 +79,10 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)
 
-## ⚡ 研究兴趣
-- 软件开发
-- 深度学习
-- 数据科学
+---
 
-## 📫 联系方式
+📫 联系方式
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mwang283@usc.edu)
 [![Github Badge](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/wmFrank)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ming-wang-frank)

@@ -2,26 +2,15 @@
 
 <img src="assets/images/profile-photo.jpeg" alt="Ming Wang's photo" width="280"/>
 
-## 👀 Latest Me
+👀 I'm currently a graduate CS student at [USC Viterbi](https://viterbischool.usc.edu/). 
 
-- I'm currently a graduate CS student at [USC Viterbi](https://viterbischool.usc.edu/). 
-- I'm currently a machine learning engineer intern at [Hugging Face](https://huggingface.co/).
-- I'm currently working on the high throughput asynchronous reinforcement learning library: [Sample Factory](https://github.com/alex-petrenko/sample-factory).
+---
 
-## 🎓 Education
-- MSCS @ University of Southern California(USC) | Aug. 2021 - May 2023 @ Los Angeles, California, United States
-- BSCS @ Nanjing University(NJU) | Sept. 2016 - June 2020 @ Nanjing, Jiangsu, China
+⚡ ML Infra | Search & Recommendation Engine
 
-## 📖 Research
-- Research Assistant @ [Robotic Embedded Systems Laboratory(RESL), USC](https://cs.nju.edu.cn/lutong/index.htm)
-- Research Assistant @ [Intelligent Media Pervasive, Recognition & Understanding(IMAGINE), NJU](https://cs.nju.edu.cn/lutong/index.htm)
-- Research Assistant @ [Institute of Computer Software(ICS), NJU](https://cs.nju.edu.cn/ics/index.html)
+---
 
-## 🏢 Work
-- Machine Learning Engineer Intern @ Hugging Face | June 2022 - Aug. 2022 @ Los Angeles, California, United States
-- Machine Learning Engineer @ ByteDance | July 2020 - July 2021 @ Shanghai, China
-
-## 🛠️ Skills
+🛠️ Skills
 
 - Programming Languages
 
@@ -42,6 +31,9 @@
 [![Octave Badge](https://img.shields.io/badge/OCTAVE-darkblue?logo=octave&logoColor=fcd683)](https://github.com/search?q=user%3AwmFrank+language%3Aoctave)
 [![Scala Badge](https://img.shields.io/badge/scala-%23DC322F.svg?logo=scala&logoColor=white)](https://github.com/search?q=user%3AwmFrank+language%3Ascala)
 [![Shell Script Badge](https://img.shields.io/badge/shell_script-%23121011.svg?logo=gnu-bash&logoColor=white)](https://github.com/search?q=user%3AwmFrank+language%3Ashell)
+[![Rust Badge](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)](https://github.com/search?q=user%3AwmFrank+language%3Arust)
+[![WebAssembly Badge](https://img.shields.io/badge/WebAssembly-654FF0?logo=WebAssembly&logoColor=white)](https://github.com/search?q=user%3AwmFrank+language%3Awebassembly)
+[![Solidity Badge](https://img.shields.io/badge/Solidity-e6e6e6?logo=solidity&logoColor=black)](https://github.com/search?q=user%3AwmFrank+language%3Asolidity)
 
 - Frameworks & Libraries
 
@@ -63,6 +55,21 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?logo=apachespark&logoColor=#E35A16)
+![Codecov](https://img.shields.io/badge/Codecov-F01F7A?logo=Codecov&logoColor=white)
+![Wakatime](https://img.shields.io/badge/WakaTime-000000?logo=WakaTime&logoColor=white)
+![Openzeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?logo=amazonaws&logoColor=white)
+![Amazon Dynamodb](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=Amazon%20DynamoDB&logoColor=white)
+![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=Mocha&logoColor=white)
+![TS-node](https://img.shields.io/badge/ts--node-3178C6?logo=ts-node&logoColor=white)
+![Web3 js](https://img.shields.io/badge/web3.js-F16822?logo=web3.js&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white)
+![Json](https://img.shields.io/badge/json-5E5C5C?logo=json&logoColor=white)
+![ESlint](https://img.shields.io/badge/eslint-3A33D1?logo=eslint&logoColor=white)
 
 - Machine Learning
 
@@ -73,12 +80,10 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)
 ![WandB](https://img.shields.io/badge/Weights_&_Biases-FFBE00?logo=WeightsAndBiases&logoColor=white)
 
-## ⚡ Interests
-- Software Development
-- Deep Learning
-- Data Science
+---
 
-## 📫 Contact
+📫 Contact
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mwang283@usc.edu)
 [![Github Badge](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/wmFrank)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ming-wang-frank)
